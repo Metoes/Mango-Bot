@@ -1,0 +1,23 @@
+{
+  "name": "mango-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metoes/Mango-Bot.git"
+  },
+  "author": "Metoes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metoes/Mango-Bot/issues"
+  },
+  "homepage": "https://github.com/Metoes/Mango-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "mongoose": "^5.10.15"
+  }
+}
